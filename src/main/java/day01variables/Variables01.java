@@ -30,7 +30,7 @@ public class Variables01 {
          //ornek char data type'inda ilk ismin ilk harfi olarak bir variable olusturunuz ve bir deger atayiniz.
         // Note : char data type 'inda degerler tek tirnak icine konulmalidir.
 
-
+        System.out.println("burcu deneme");
 
 
 
