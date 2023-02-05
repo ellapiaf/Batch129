@@ -14,9 +14,9 @@ NoTE 3:  "public " method'lar child class'lar tarafindan kullanilabilir.
 Note 4: "protected" method'lar "inherit edilebilir"
 Note 5: "default" method'lar object ile ayni package 'de olduklari surece "inherit edilebilir".
         ama default method ile object'in uretildigi class farkli package'lerde ise "inherit edilemezler".
- note"private"methiod'lar "inherit edilemezler"
+        note"private"method'lar "inherit edilemezler"
         Note 7: Java birden fazla  parant'i onaylamaz.yani Java birden fazla parent'i(multiple inheritance Java tarafindan desteklenmez) onaylamaz.
-        Note 8: Child--> Parent-->Grand Parent---> Grand Grand Parent ... seklinde ilerleyen inheritance'lara "Multi Level Inheritance" denir.
+        Note 8: Child--> Parent-->Grand Parent---> Grand Grand Parent ... seklinde ilerleyen inheritance'lara "Multi Level Inheritance" denir.(aparmtan gibi olan yani)
         Note 9:Java' da "Object Class" tum Java Class'larinin ortak parent'idir
         Note 10: Java' da Object Class haric tum class'larin parent'i vardir..Java da paranti olmayan tek class "Object Class"dir.
         Note 11:Java 'da "parent" dan "child" a olan iliskilere "HAS-A Relationship" denir.
