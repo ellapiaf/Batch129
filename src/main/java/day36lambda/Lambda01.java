@@ -71,7 +71,7 @@ public class Lambda01 {
   public static void   printAllReversedAlphabeticallyLowerDistinc(List<String> list){
       list.stream().distinct().map(t->t.toLowerCase()).sorted(Comparator.reverseOrder()).forEach(t -> System.out.print(t+" "));
 }
-    //4)Tum list elemanlarini buyuk harfle uzunluklarina gore aretan sirada  tekrarsiz olarak yazdiriniz.
+    //4)Tum list elemanlarini buyuk harfle uzunluklarina gore artan sirada  tekrarsiz olarak yazdiriniz.
 
     public static void printAllSortWithLengthUpperDistinct(List<String>list){
 

@@ -1,4 +1,4 @@
-package day19listsvarargs;
+package day27encapsulationabstractions.day19listsvarargs;
 
 import java.sql.SQLOutput;
 import java.util.ArrayList;
